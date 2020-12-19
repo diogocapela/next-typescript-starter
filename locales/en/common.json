@@ -1,0 +1,11 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "privacy-policy": "Privacy Policy",
+    "terms": "Terms",
+    "terms-and-conditions": "Terms and Conditions"
+  }
+}

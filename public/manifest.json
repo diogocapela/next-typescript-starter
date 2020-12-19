@@ -1,0 +1,51 @@
+{
+  "short_name": "Next.js TypeScript Starter",
+  "name": "Next.js TypeScript Starter",
+  "description": "A fully configured React and TypeScript boilerplate starter for Next.js.",
+  "icons": [
+    {
+        "src": "/images/favicon/favicon-16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/favicon/favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/favicon/favicon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/favicon/favicon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/favicon/favicon-150x150.png",
+        "sizes": "150x150",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/favicon/favicon-196x196.png",
+        "sizes": "196x196",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/favicon/favicon-500x500.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/favicon/favicon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
